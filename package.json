@@ -41,7 +41,7 @@
     "http-cache-semantics": "^4.0.3",
     "lru-cache": "^5.1.1",
     "moment": "^2.24.0",
-    "node-webcrypto-ossl": "^1.0.48"
+    "webcrypto-liner": "^1.2.3"
   },
   "devDependencies": {
     "@types/node": "^10.14.10",
